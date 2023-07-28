@@ -18,3 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperen-erol&show_icons=true&locale=en" alt="alperen-erol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperen-erol&" alt="alperen-erol" /></p>
+
+Project | Live
+------------- | -------------
+
+[Movie App](https://github.com/alperen-erol/Movie-App)  | [Link](https://erol-movie-app.netlify.app)
