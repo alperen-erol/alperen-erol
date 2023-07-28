@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">an 18 year old Front-End developer who wants to further improve himself.</h3>
+<h3 align="center">An 18 year old Front-End developer who wants to further improve himself.</h3>
 
 - 📫 How to reach me **alperen.erol36@gmail.com**
 
