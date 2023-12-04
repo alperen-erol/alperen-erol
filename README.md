@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">an 18 year old Front-End developer who wants to further improve himself.</h3>
+<h3 align="center">A 19 year old Front-End developer who wants to further improve himself.</h3>
 
 - 🔭 I’m currently working on **Front-End development**
 
-- 📫 How to reach me **alperen.erol36@gmail.com**
+- 📫 How to reach out to me **alperen.erol36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
