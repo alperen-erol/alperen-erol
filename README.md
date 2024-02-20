@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A 19 year old Front-End developer who wants to further improve himself.</h3>
+<h3 align="center">A 19-year-old Front-End developer who wants to further improve himself.</h3>
 
 - 🔭 I’m currently working on **Front-End development**
 
