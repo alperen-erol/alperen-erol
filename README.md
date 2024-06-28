@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front-End development**
 
-- 📫 How to reach out to me **Erol.Alperen@outlook.com**
+- 📫 How to reach out to me **alperen.erol36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
